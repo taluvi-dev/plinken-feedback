@@ -48,4 +48,4 @@ Plinken is currently in **Alpha**. We're actively developing new features and wo
 
 ---
 
-© Plinken 2025
+© Plinken 2026
